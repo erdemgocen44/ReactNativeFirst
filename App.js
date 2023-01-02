@@ -5,7 +5,7 @@ export default class App extends Component {
   render() {
     return (
       <View>
-        <Text>App</Text>
+        <Text>İlk Deneme</Text>
       </View>
     );
   }
